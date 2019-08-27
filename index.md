@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Документация для 1с Торговля Пантус
 
-You can use the [editor on GitHub](https://github.com/Ilya-gusev/1c2020doc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Пока что вы можете только перейти в раздел [НСИ](https://github.com/Ilya-gusev/1c2020doc.github.io/edit/master/Справочники.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
