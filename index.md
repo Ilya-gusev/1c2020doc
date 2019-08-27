@@ -1,6 +1,6 @@
 ## Документация для 1с Торговля Пантус
 
-Пока что вы можете только перейти в раздел [НСИ](https://github.com/Ilya-gusev/1c2020doc.github.io/edit/master/NSI.md).
+Пока что вы можете только перейти в раздел [НСИ](https://github.com/Ilya-gusev/1c2020doc.github.io/master/NSI.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
